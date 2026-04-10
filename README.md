@@ -2,7 +2,7 @@
 
 > *your editor, but make it linen.*
 
-A VS Code theme that feels like a slow morning — warm light through sheer curtains, a cup of something hot, nowhere to be. Built on **natural beiges and linen tones**, with **blush pink** that shows up only when it has something to say.
+A VS Code theme that feels like a slow morning — warm light through sheer curtains, the scent of a cup of coffee, nowhere to be. Built on **natural beiges and linen tones**, with **blush pink** that shows up only when it has something to say. ✨
 
 Because your workspace should feel as considered as your code.
 
