@@ -2,4 +2,4 @@
 .gitignore
 .DS_Store
 *.vsix
-screenshots/
+resources/screenshots/

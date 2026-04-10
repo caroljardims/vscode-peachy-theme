@@ -6,7 +6,7 @@ A VS Code theme that feels like a slow morning — warm light through sheer curt
 
 Because your workspace should feel as considered as your code.
 
-![Peachy Theme preview](https://raw.githubusercontent.com/caroljardims/vscode-peachy-theme/main/screenshots/preview.png)
+![Peachy Theme preview](https://raw.githubusercontent.com/caroljardims/vscode-peachy-theme/main/resources/screenshots/preview.png)
 
 ---
 
