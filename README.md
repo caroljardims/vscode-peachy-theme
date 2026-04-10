@@ -2,6 +2,8 @@
 
 A warm, natural light theme for Visual Studio Code — built around soft **beige and linen tones** with **blush pink accents**. Designed to feel calm, chic, and easy on the eyes during long coding sessions.
 
+![Peachy Theme preview](screenshots/preview.png)
+
 ---
 
 ## Palette
