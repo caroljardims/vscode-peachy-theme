@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(code --version)",
-      "Bash(gh auth:*)"
-    ]
-  }
-}
