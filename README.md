@@ -1,53 +1,58 @@
-# 🍑 Peachy Theme
+# 🍑 Peachy
 
-A warm, natural light theme for Visual Studio Code — built around soft **beige and linen tones** with **blush pink accents**. Designed to feel calm, chic, and easy on the eyes during long coding sessions.
+> *your editor, but make it linen.*
+
+A VS Code theme that feels like a slow morning — warm light through sheer curtains, a cup of something hot, nowhere to be. Built on **natural beiges and linen tones**, with **blush pink** that shows up only when it has something to say.
+
+Because your workspace should feel as considered as your code.
 
 ![Peachy Theme preview](screenshots/preview.png)
 
 ---
 
-## Palette
+## the palette
 
-| Role | Color | Hex |
+Beige does the heavy lifting. Pink knows when to speak.
+
+| | Color | Hex |
 |---|---|---|
-| Editor background | ![#F8EDEB](https://placehold.co/16x16/F8EDEB/F8EDEB.png) Warm linen | `#F8EDEB` |
-| Sidebar | ![#F5E6DA](https://placehold.co/16x16/F5E6DA/F5E6DA.png) Soft sand | `#F5E6DA` |
-| Activity bar | ![#EDE0D4](https://placehold.co/16x16/EDE0D4/EDE0D4.png) Natural beige | `#EDE0D4` |
-| Status bar | ![#E8CDB8](https://placehold.co/16x16/E8CDB8/E8CDB8.png) Warm tan | `#E8CDB8` |
-| Pink accent | ![#FEC5BB](https://placehold.co/16x16/FEC5BB/FEC5BB.png) Blush | `#FEC5BB` |
-| Text | ![#4A2F22](https://placehold.co/16x16/4A2F22/4A2F22.png) Dark espresso | `#4A2F22` |
+| ![#F8EDEB](https://placehold.co/16x16/F8EDEB/F8EDEB.png) | Warm linen — editor | `#F8EDEB` |
+| ![#F5E6DA](https://placehold.co/16x16/F5E6DA/F5E6DA.png) | Soft sand — sidebar | `#F5E6DA` |
+| ![#EDE0D4](https://placehold.co/16x16/EDE0D4/EDE0D4.png) | Natural beige — activity bar | `#EDE0D4` |
+| ![#E8CDB8](https://placehold.co/16x16/E8CDB8/E8CDB8.png) | Warm tan — status bar | `#E8CDB8` |
+| ![#FEC5BB](https://placehold.co/16x16/FEC5BB/FEC5BB.png) | Blush — accent | `#FEC5BB` |
+| ![#4A2F22](https://placehold.co/16x16/4A2F22/4A2F22.png) | Dark espresso — text | `#4A2F22` |
 
 ---
 
-## Installation
+## get it
 
-### From the `.vsix` file
+**Via `.vsix`** — the one-click way:
 
 1. Download `peachy-theme-1.0.0.vsix` from the [latest release](../../releases/latest)
-2. Open VS Code → `Cmd+Shift+P` → **Extensions: Install from VSIX...**
-3. Select the downloaded file
-4. `Cmd+Shift+P` → **Color Theme** → choose **Peachy**
+2. `Cmd+Shift+P` → **Extensions: Install from VSIX...**
+3. `Cmd+Shift+P` → **Color Theme** → **Peachy**
 
-### Manual (dev)
+**Via git** — for tinkerers:
 
 ```bash
 git clone https://github.com/carolinejardimsiqueira/vscode-peachy-theme
 cp -r vscode-peachy-theme ~/.vscode/extensions/carol.peachy-theme-1.0.0
 ```
-Then reload VS Code and select the theme.
+
+Reload VS Code. You know what to do.
 
 ---
 
-## Features
+## what it does
 
-- **Light theme** — warm and soft, never harsh
-- **Beige-first workspace** — the UI fades into the background so your code takes center stage
-- **Pink as a highlight** — blush accents on active tabs, selections, focus borders, and badges
-- **Semantic highlighting** — full support for classes, interfaces, functions, parameters, and more
-- **Broad language support** — tuned for JS/TS, HTML/JSX, CSS, JSON, Markdown, and more
+- the UI wraps around your code quietly — no loud sidebars, no distracting chrome
+- blush pink surfaces only on the things that matter: active tabs, selections, focus rings
+- semantic highlighting across JS/TS, HTML/JSX, CSS, JSON, Markdown and more
+- soft enough for hours, distinct enough to read
 
 ---
 
-## License
+## license
 
 [MIT](LICENSE) © 2026 Caroline Jardim Siqueira
