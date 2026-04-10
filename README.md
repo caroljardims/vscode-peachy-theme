@@ -37,7 +37,7 @@ Beige does the heavy lifting. Pink knows when to speak.
 
 ```bash
 git clone https://github.com/carolinejardimsiqueira/vscode-peachy-theme
-cp -r vscode-peachy-theme ~/.vscode/extensions/carol.peachy-theme-1.0.0
+cp -r vscode-peachy-theme ~/.vscode/extensions/caroljardims.peachy-theme-1.0.0
 ```
 
 Reload VS Code. You know what to do.
