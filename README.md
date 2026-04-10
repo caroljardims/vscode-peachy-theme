@@ -53,6 +53,14 @@ Reload VS Code. You know what to do.
 
 ---
 
+## support
+
+If Peachy made your workspace a little more beautiful, a coffee would mean a lot. ☕
+
+[![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-%23FDDCAB?style=for-the-badge&logo=buy-me-a-coffee&logoColor=3A1F14)](https://buymeacoffee.com/caroljardims)
+
+---
+
 ## license
 
 [MIT](LICENSE) © 2026 Caroline Jardim Siqueira
