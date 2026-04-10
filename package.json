@@ -1,0 +1,20 @@
+{
+  "name": "peachy-theme",
+  "displayName": "Peachy Theme",
+  "description": "A warm, soft light theme with peach and rose tones.",
+  "version": "1.0.0",
+  "publisher": "carol",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Peachy",
+        "uiTheme": "vs",
+        "path": "./themes/peachy-color-theme.json"
+      }
+    ]
+  }
+}
