@@ -1,8 +1,8 @@
 {
   "name": "peachy-theme",
   "displayName": "Peachy Theme",
-  "description": "A warm, soft light theme with peach and rose tones.",
-  "version": "1.0.1",
+  "description": "A warm, natural light theme with linen beiges and blush pink accents.",
+  "version": "1.0.2",
   "publisher": "caroljardims",
   "icon": "resources/logo/peach-marketplace-logo.png",
   "repository": {
