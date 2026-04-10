@@ -4,6 +4,11 @@
   "description": "A warm, soft light theme with peach and rose tones.",
   "version": "1.0.0",
   "publisher": "carol",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carolinejardimsiqueira/vscode-peachy-theme"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.60.0"
   },
