@@ -59,7 +59,7 @@ If Peachy made your workspace a little more beautiful, a coffee and a Pix would 
 
 [![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-%23FDDCAB?style=for-the-badge&logo=buy-me-a-coffee&logoColor=3A1F14)](https://buymeacoffee.com/caroljardims)
 
-**Pix (Brasil)**
+**🇧🇷 Pix 🇧🇷**
 
 ![Pix QR Code](resources/other/chavepix.png)
 
