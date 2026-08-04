@@ -1,8 +1,8 @@
 {
   "name": "peachy-theme",
   "displayName": "Peachy Theme",
-  "description": "A warm, natural light theme with linen beiges and blush pink accents.",
-  "version": "1.0.2",
+  "description": "Warm natural themes with linen, cocoa, and cherry tones — light and dark.",
+  "version": "1.2.0",
   "publisher": "caroljardims",
   "icon": "resources/logo/peach-marketplace-logo.png",
   "repository": {
@@ -20,6 +20,16 @@
         "label": "Peachy",
         "uiTheme": "vs",
         "path": "./themes/peachy-color-theme.json"
+      },
+      {
+        "label": "Peachy Cocoa",
+        "uiTheme": "vs-dark",
+        "path": "./themes/peachy-cocoa-color-theme.json"
+      },
+      {
+        "label": "Peachy Cherry",
+        "uiTheme": "vs-dark",
+        "path": "./themes/peachy-cherry-color-theme.json"
       }
     ]
   }
